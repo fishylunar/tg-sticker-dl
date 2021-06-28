@@ -7,7 +7,7 @@ Simply open up DevTools and paste in and run the following script when viewing a
 #### Example sticker page
 https://telegramchannels.me/stickers/s-moodfox
 
-### Raw JS (Inject in console)
+### Script
 ```javascript
 // TelegramChannels.me Sticker downloader
 
